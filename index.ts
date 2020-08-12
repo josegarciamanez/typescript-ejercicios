@@ -89,3 +89,5 @@ console.log(tuple1);
 //
 
 //* Opuesto al any, ningún tipo. Más asociado al retorno de una función
+
+let hola: string = 'Hola';
