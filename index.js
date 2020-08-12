@@ -1,8 +1,8 @@
 "use strict";
 console.log('Hola Mundo');
-var batman;
-batman = ' Hola Batman ';
-var barTrim = batman.trim();
+var batman2;
+batman2 = ' Hola Batman ';
+var barTrim = batman2.trim();
 console.log(barTrim);
 //
 // *─── TIPOS DE DATOS ─────────────────────────────────────────────────────────────

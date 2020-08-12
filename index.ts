@@ -1,8 +1,8 @@
 console.log('Hola Mundo');
 
-let batman: string;
-batman = ' Hola Batman ';
-let barTrim: string = batman.trim();
+let batman2: string;
+batman2 = ' Hola Batman ';
+let barTrim: string = batman2.trim();
 console.log(barTrim);
 
 //
