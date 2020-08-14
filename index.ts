@@ -89,5 +89,11 @@ console.log(tuple1);
 //
 
 //* Opuesto al any, ningún tipo. Más asociado al retorno de una función
+function voidFunc(params: string): void {
+  return params;
+}
 
-let hola: string = 'Hola';
+console.log(
+  '%cHola Mundo',
+  'font-size: 20px; background: #444; color: #bada55; padding: 2px; border-radius:2px; padding: 0 5px;'
+);
